@@ -1,1 +1,2 @@
-# logstash-grok
+# logstash
+Small collection of GROK rules
